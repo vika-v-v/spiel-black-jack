@@ -1,5 +1,5 @@
 # spiel-black.jack
-Der Projekt für Uni, Console Spiel "Black Jack"
+Der Projekt für Uni, Console Spiel "Black Jack", "17-4"
 
 Regeln:
 - Spieler (beliebige Menge) spielen ein nach einander und entscheidet sich, ob er Ziehen oder Stehen möchte
