@@ -37,7 +37,7 @@ public class GameManager {
 				if(spieler[spielerDran].getPunkte() >= 21) 
 				{
 					beendet = true;
-					spieler[spielerDran].setPunkte(-1);
+					if(spieler[spielerDran].getPunkte() > 21) spieler[spielerDran].setPunkte(-1);
 				}
 				
 			}
